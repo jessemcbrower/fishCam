@@ -1,0 +1,8 @@
+body {
+	text-align: center;
+}
+
+.cameras {
+	display: flex;
+	justify-content: center;
+}
